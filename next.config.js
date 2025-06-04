@@ -5,9 +5,8 @@ const nextConfig = {
   images: {
     unoptimized: true
   },
-  // Add your GitHub repo name here
-  basePath: '/trendyai-forex', // Replace with your actual repo name
-  assetPrefix: '/trendyai-forex/', // Replace with your actual repo name
+  basePath: '/forex',
+  assetPrefix: '/forex/'
 }
 
 module.exports = nextConfig
