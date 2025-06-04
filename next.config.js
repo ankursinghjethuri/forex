@@ -4,7 +4,10 @@ const nextConfig = {
   trailingSlash: true,
   images: {
     unoptimized: true
-  }
+  },
+  // Add your GitHub repo name here
+  basePath: '/trendyai-forex', // Replace with your actual repo name
+  assetPrefix: '/trendyai-forex/', // Replace with your actual repo name
 }
 
 module.exports = nextConfig
